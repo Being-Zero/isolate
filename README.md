@@ -1,6 +1,8 @@
 isolate
 =======
 
+Being Zero's Copy of [IOI ISOLATE](https://github.com/ioi/isolate)
+
 Isolate is a sandbox built to safely run untrusted executables,
 offering them a limited-access environment and preventing them from
 affecting the host system. It takes advantage of features specific to
